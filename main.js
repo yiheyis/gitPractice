@@ -19,5 +19,5 @@ content.style.textAlign="center";
 //center the content div
 content.style.margin="10% auto";
 
-content.style.fontStyle="sans-serif";
+content.style.fontFamily ="sans-serif";
 content.style.color="white";
